@@ -78,6 +78,9 @@ aside section a {
 	display: block;
 	padding: 10px;
 	border-bottom: 3px solid #eeeeee;
+	width: 230px;
+	padding-left: 20px;
+	float: right;
 }
 
 aside section a:hover {
