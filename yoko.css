@@ -114,3 +114,7 @@ section.contpage {
 	text-align: center;
 	font-size: 20px;
 }
+
+header {
+	height: 200px;
+}
