@@ -53,6 +53,7 @@ article {
 	clear: both;
 	overflow: auto;
 	width: 98%;
+	text-align: justify;
 }
 
 hgroup {
